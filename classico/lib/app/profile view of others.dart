@@ -61,7 +61,7 @@ class _HomeScreenaState extends State<HomeScreena> {
       backgroundColor: Colors.grey[100],
       appBar: AppBar(
         backgroundColor: Colors.pinkAccent,
-        title: Text("Dating App", style: TextStyle(color: Colors.white)),
+        title: Text("Dating Apps", style: TextStyle(color: Colors.white)),
         centerTitle: true,
       ),
       body: Center(
